@@ -1,0 +1,17 @@
+﻿Build started 2/16/2023 2:07:01 PM.
+     1>Project "C:\Users\lunat\documents\visual studio 2010\Projects\BubleSort\AssemblyFiles\Windows\VisualStudio_10\BubleSortUnitTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "BubleSortUnitTest\StaticDebug\BubleSortUnitTest.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         BubleSortUnitTest.vcxproj -> C:\Users\lunat\documents\visual studio 2010\Projects\BubleSort\AssemblyFiles\Windows\VisualStudio_10\BubleSortUnitTest\StaticDebug\BubleSortUnitTest.exe
+       FinalizeBuildStatus:
+         Deleting file "BubleSortUnitTest\StaticDebug\BubleSortUnitTest.unsuccessfulbuild".
+         Touching "BubleSortUnitTest\StaticDebug\BubleSortUnitTest.lastbuildstate".
+     1>Done Building Project "C:\Users\lunat\documents\visual studio 2010\Projects\BubleSort\AssemblyFiles\Windows\VisualStudio_10\BubleSortUnitTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
